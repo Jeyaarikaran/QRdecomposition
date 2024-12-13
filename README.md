@@ -52,10 +52,8 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 
 ## Output
 ```
-![Screenshot 2024-12-13 190135]
-![Screenshot 2024-12-13 185547]
-
-
+![image 1](<Screenshot 2024-12-13 190135-1.png>)
+![image 2](<Screenshot 2024-12-13 185547-1.png>)
 ```
 
 ## Result
